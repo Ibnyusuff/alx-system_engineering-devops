@@ -1,2 +1,1 @@
-#!/bin/bash
-to print an output
+Shell I/O redirections
